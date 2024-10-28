@@ -50,7 +50,7 @@ In the intial phase of Data Cleaning and Preparations, we perform the following 
 ### Exploratory Data Analysis 
 EDA involved the exploratory of the Data to answer some questions about the data such as;
 
-# For Sales Data 
+#### For Sales Data 
 1. Retrieve the total sales for each product category.
 2. Find the number of sales transactions in each region.
 3. Find the highest-selling product by total sales value.
@@ -60,7 +60,7 @@ EDA involved the exploratory of the Data to answer some questions about the data
 7. Calculate the percentage of total sales contributed by each region.
 8. Identify products with no sales in the last quarter.
 
-# For Customer Data
+#### For Customer Data
 1. Retrieve the total number of customers from each region.
 2. Find the most popular subscription type by the number of customers.
 3. Find customers who canceled their subscription within 6 months.
@@ -69,3 +69,8 @@ EDA involved the exploratory of the Data to answer some questions about the data
 6. Calculate total revenue by subscription type.
 7. Find the top 3 regions by subscription cancellations.
 8. Find the total number of active and canceled subscriptions.
+
+### Data Analysis 
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis; 
+
+
