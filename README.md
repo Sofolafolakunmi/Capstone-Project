@@ -73,4 +73,10 @@ EDA involved the exploratory of the Data to answer some questions about the data
 ### Data Analysis 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis; 
 
+### Data Visualization 
+![CUSTOMERDATA](https://github.com/user-attachments/assets/84701449-3259-4857-a591-28a6eca8e714)
+![Customer](https://github.com/user-attachments/assets/93f2ccf8-ca54-4906-80b2-6f06f9b4cb90)
+![SALESDATA 2](https://github.com/user-attachments/assets/2d55261c-d44f-441d-bff7-b61f213f6566)
+![SalesData](https://github.com/user-attachments/assets/334d53ac-db4a-4b6f-b233-b3db2cb00a81)
+
 
