@@ -6,18 +6,30 @@
 [Project Overview For Customer Subcription Data](#project-overview-for-customer-subcription-data) 
 
 [Column Descriptions For Sales Data](#column-descriptions-for-sales-data)
-Column Descriptions For Customer Data
-Data Source
-Tools Used 
-Data Cleaning and Preparations 
-Exploratory Data Analysis 
-For Sales Data 
-For Customer Data
-Data Analysis 
-Data Visualization 
-My Result 
-For Sales Data 
-For Customer Data
+
+[Column Descriptions For Customer Data](#column-descriptions-for-customer-data)
+
+[Data Source](#data-source
+
+[Tools Used](#tools-used)  
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)  
+
+[Exploratory Data Analysis](#exploratory-data-analysis)  
+
+[For Sales Data](#for-sales-data) 
+
+[For Customer Data](#for-customer-data)
+
+[Data Analysis](#data-analysis)  
+
+[Data Visualization](#data-visualization) 
+
+[My Result](#my-result)
+
+[For Sales Data](#for-sales-data)  
+
+[For Customer Data](#for-customer-data)
 
 ### Project Overview For Sales Data 
 
