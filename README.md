@@ -1,9 +1,9 @@
 ## Capstone-Project
 
-### Project Title: Sales Transactions and Customer Subcription Dataset 
+### Project Title: Sales Transactions and Customer Subcription Dataset
 [Project Overview For Sales Data](#project-overview-for-sales-data)
-Project Overview For Customer Subcription Data 
-Column Descriptions For Sales Data
+[Project Overview For Customer Subcription Data](#project-overview-for-customer-subcription-data) 
+[Column Descriptions For Sales Data](#column-descriptions-for-sales-data)
 Column Descriptions For Customer Data
 Data Source
 Tools Used 
