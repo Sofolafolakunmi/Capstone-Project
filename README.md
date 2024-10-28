@@ -9,7 +9,7 @@
 
 [Column Descriptions For Customer Data](#column-descriptions-for-customer-data)
 
-[Data Source](#data-source
+[Data Source](#data-source)
 
 [Tools Used](#tools-used)  
 
