@@ -105,6 +105,11 @@ This is where we include some basic lines of code or queries or even some of the
 select *
 From Table Name = SalesData
 ```
+```SQL
+select *
+From Table Name = CustomerData
+```
+
 
 ### Data Visualization 
 ![CUSTOMERDATA](https://github.com/user-attachments/assets/84701449-3259-4857-a591-28a6eca8e714)
