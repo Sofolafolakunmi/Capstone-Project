@@ -42,4 +42,10 @@ The main data sources for this analysis are the "Data Sales.csv" and "Customer.c
 -Power BI: Used for both data cleaning and visualization.
 
 ### Data Cleaning and Preparations 
+In the intial phase of Data Cleaning and Preparations, we perform the following action;
+- Data loading and Inspection
+- Handling missing variables
+- Data Cleaning and Formatting 
 
+### Exploratory Data Analysis 
+EDA involved the exploratory of the Data to answer some questions 
